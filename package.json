@@ -1,0 +1,21 @@
+{
+  "name": "default-template",
+  "version": "1.0.0",
+  "description": "Default HTML5 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "default",
+    "html",
+    "css",
+    "javascript",
+    "scss"
+  ],
+  "author": "carepify",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.0"
+  }
+}
