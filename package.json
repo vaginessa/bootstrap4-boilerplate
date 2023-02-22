@@ -16,6 +16,6 @@
   "author": "carepify",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.1.0"
+    "bootstrap": "^4.3.1"
   }
 }
